@@ -1,0 +1,1 @@
+{"scene_id":12,"convoy_head_id":975,"convoy_tail_id":979,"independent_id":948,"reward_causal_links":{"948":[975,979],"975":[979]},"agency_causal_links":{"975":[979]},"hybrid_causal_links":{"948":[975,979],"975":[979]},"time_elapsed_in_microseconds":2331176}
