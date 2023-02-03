@@ -1,0 +1,3 @@
+[submodule "code/simcars"]
+	path = code/simcars
+	url = git@github.com:cognitive-robots/simcars.git
