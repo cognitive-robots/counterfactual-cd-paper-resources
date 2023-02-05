@@ -1,3 +1,6 @@
 [submodule "code/simcars"]
 	path = code/simcars
 	url = git@github.com:cognitive-robots/simcars.git
+[submodule "code/utilities/highd_dataset_tools"]
+	path = code/utilities/highd_dataset_tools
+	url = git@github.com:cognitive-robots/highd_dataset_tools.git
