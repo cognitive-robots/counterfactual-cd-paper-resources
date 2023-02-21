@@ -1,7 +1,9 @@
-# High-D Dataset Tools
+# Utilities
+
+## High-D Dataset Tools
 Repository containing tools for working with the High-D dataset.
 
-# Batch Causal Discovery
+## Batch Causal Discovery
 Runs causal discovery on a folder of causal scenes.
 
 ```
@@ -14,7 +16,7 @@ Parameters:
 * input_scene_dir: Input directory containing scenes in base High-D format. However, it is recommended to use the trimmed scenes that can be output from the extraction script, as the raw files sometimes capture over 10 minutes of footage and the extra unnecessary data slows down the loading speed of scenes.
 * output_json_meta_dir: Output directory containing JSON files describing causal scene meta information as well as new information regarding the discovered causal links and the time the causal discovery took to execute.
 
-# Evaluate Performance
+## Evaluate Performance
 Calculates performance metrics for each causal scene based upon the links discovered for it before calculating statistics for these metrics.
 
 ```
