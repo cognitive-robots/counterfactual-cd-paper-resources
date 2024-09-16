@@ -13,10 +13,14 @@ Corresponding conference paper accepted at IEEE Intelligent Vehicle Symposium 20
 Please cite the following if you use the contents of this repository in your work:
 ```
 @inproceedings{howard2023simulation,
-    author    = {Howard, Rhys and Kunze, Lars},
-    title     = {Simulation-Based Counterfactual Causal Discovery on Real World Driver Behaviour},
-    booktitle = {Proceedings of the 35th IEEE Intelligent Vehicles Symposium},
-    publisher = {IEEE},
-    year      = {2023}
+  author={Howard, Rhys and Kunze, Lars},
+  booktitle={2023 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={Simulation-Based Counterfactual Causal Discovery on Real World Driver Behaviour}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Intelligent vehicles;Roads;Vehicle dynamics;Task analysis;Causal Discovery;Autonomous Driving;Counterfactuals;Simulation;Autonomous Agents;Theory of Mind},
+  doi={10.1109/IV55152.2023.10186705}
 }
 ```
